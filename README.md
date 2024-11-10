@@ -1,6 +1,6 @@
 # Assignment 03 computer vision & natural language processing
 
-03_KELOMPOK D_1 Pemrosesan Gambar Digital
+03_TIM 3_1 Pemrosesan Gambar Digital
 
 Pustaka : Scikit-image, OpenCV, Numpy, Matplotlib
 Tujuan : Memproses gambar digital dengan operasi dasar pemrosesan citra.
@@ -12,7 +12,7 @@ Pooling dan Block Reduce :
 Gunakan block_reduce()dengan fungsi np.minuntuk operasi min pooling dan np.meanuntuk average pooling.
 CLAHE : Terapkan CLAHE (Contrast Limited Adaptive Histogram Equalization) untuk mencerahkan gambar gelap, dan menyimpan gambar hasilnya dengan ekstensi .png.
 
-03_KELOMPOK D_2 Pembelajaran Transfer untuk Klasifikasi Digit Tulisan Tangan
+03_TIM 3_2 Pembelajaran Transfer untuk Klasifikasi Digit Tulisan Tangan
 
 Dataset : Angka Tulis Tangan MNIST
 Pustaka : PyTorch, Torchvision, Scikit-learn
@@ -26,7 +26,7 @@ Pilih model (ResNet18, DenseNet121, atau ViT), tentukan jumlah epoch, dan sediak
 Analisis Lapisan Beku :
 Menjawab pertanyaan terkait dampak pembekuan lapisan pada akurasi dan kecepatan pelatihan. Semakin banyak lapisan yang di-freeze, akurasi awal lebih rendah, dan waktu pelatihan lebih cepat karena parameter yang dibor lebih sedikit.
 
-03_KELOMPOK D_3 Deteksi Objek Real-time dalam Video
+03_TIM 3_3 Deteksi Objek Real-time dalam Video
 
 Kumpulan data : video YouTube
 Pustaka : PyTorch, Numpy, OpenCV2
@@ -38,7 +38,7 @@ Pertanyaan :
 Menjelaskan perbedaan antara klasifikasi gambar (pengklasifikasian objek tunggal pada gambar) dan deteksi objek (mendeteksi lokasi dan jenis objek dalam gambar).
 Identifikasi video di mana YOLOv5 memiliki akurasi deteksi terburuk dan faktor-faktor yang mempengaruhi akurasi, seperti kondisi pencahayaan, sudut pandang, atau kompleksitas gambar.
 
-03_KELOMPOK D_4 Klasifikasi Teks dengan BERT untuk Tweet Bencana
+03_TIM 3_4 Klasifikasi Teks dengan BERT untuk Tweet Bencana
 
 Kumpulan Data : Tweet Bencana
 Pustaka : NLTK, Pandas, Numpy, Scikit-learn, PyTorch, Transformers
